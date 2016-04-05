@@ -25,7 +25,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>area = 1
+            <string>randomize()
+
+area = 1
 sub_area = 1
 
 char = 1
